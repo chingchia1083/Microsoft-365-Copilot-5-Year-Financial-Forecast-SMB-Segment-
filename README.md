@@ -50,7 +50,7 @@ The model features **100+ scenarios and toggleable assumptions**, enabling users
 * **Regional Deep-Dives**: Slicers allow for a single-region P&L view or a fully consolidated worldwide view.
 
 > **[P&L_Dashboard_with_Slicers]**
-> <img width="628" height="814" alt="single scenario view" src="https://github.com/user-attachments/assets/65a6b5a5-c6b0-4f0b-b272-67c36819764c" />
+<img width="628" height="814" alt="single scenario view" src="https://github.com/user-attachments/assets/65a6b5a5-c6b0-4f0b-b272-67c36819764c" />
 <img width="598" height="812" alt="aggregate view" src="https://github.com/user-attachments/assets/2ea303cd-1edc-475c-be39-111e9f20f099" />
 
 ---
