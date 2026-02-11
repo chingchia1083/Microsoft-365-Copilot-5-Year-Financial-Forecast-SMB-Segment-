@@ -9,7 +9,7 @@ The model evaluates unit economics across **five key regions** (US, Eurozone, UK
 
 ## 🏗️ Model Architecture & Technical Innovation
 The core differentiator of this project is the use of **Power Query** to automate complex subscription "waterfall" logic, eliminating the need for hundreds of manual Excel tables.
-> **[INSERT SCREENSHOT: waterfall.png]**<img width="1545" height="462" alt="waterfall" src="https://github.com/user-attachments/assets/822fc892-b3ca-4421-ac80-704568d8850f" />
+> **[typical waterfall table]**<img width="1545" height="462" alt="waterfall" src="https://github.com/user-attachments/assets/822fc892-b3ca-4421-ac80-704568d8850f" />
 
 
 ### 1. Automated Waterfall Engine
@@ -17,13 +17,16 @@ The core differentiator of this project is the use of **Power Query** to automat
 * **Data Integrity**: Uses group all rows and index to simulate waterfall movements within a clean, tabular structure optimized for recurring revenue calculation.
 * **Logic-Driven Revenue**: The engine calculates recurring revenue by merging unit prices with enrollee data through a join-and-multiply logic, ensuring automated accuracy across every period.
 
-> **[INSERT SCREENSHOT: Power_Query_Steps.png]**
+> **[Power_Query_Steps]**<img width="263" height="547" alt="query steps" src="https://github.com/user-attachments/assets/7998d495-988e-4510-a2ed-46b7842e0dfa" />
+
 
 ### 2. Enrollment Methodology
 * **Top-Down Forecasting**: Starts with a baseline of **450M M365 Commercial Seats** with a 2% mature-market annual growth rate.
 * **S-Curve Adoption**: Applies a progressive **Copilot Attach Rate** (starting at 8.0% in 2026 and scaling to 32.0% by 2030) to calculate incremental AI enrollees.
 
-> **[INSERT SCREENSHOT: Enrollment_Forecast_Table.png]**
+> **[Enrollment_Forecast_Table.]**
+<img width="1223" height="451" alt="GNE Assumption" src="https://github.com/user-attachments/assets/3a2959dd-4693-46a4-b64c-3c4010c87f68" />
+<img width="1297" height="416" alt="GNE by country" src="https://github.com/user-attachments/assets/a8a78879-1ead-440f-a605-65537f4926f2" />
 
 ---
 
@@ -33,6 +36,7 @@ The model incorporates advanced SaaS and AI-specific metrics:
 * **Churn Dynamics**: Segmented by commitment type (Monthly vs. Annual). Accounts for **Trial Drop-offs** (up to 55%) vs. **Steady-State Churn** (as low as 0.4% for Premium Annual).
 * **AI-Specific COGS**: Detailed modeling of incremental costs, including **One-time Data Indexing setup** ($1.50/GB), monthly storage maintenance, and GPU compute time ($4.00–$11.80/user depending on region).
 * **Metered Revenue Layer**: Includes a consumption-based revenue forecast for Premium plans based on **Active User %** and **PAYG Trigger %**.
+<img width="2400" height="1002" alt="unit price" src="https://github.com/user-attachments/assets/0034c018-fecb-42cf-94b1-cf8487cc4d62" />
 
 ---
 
