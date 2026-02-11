@@ -9,7 +9,8 @@ The model evaluates unit economics across **five key regions** (US, Eurozone, UK
 
 ## 🏗️ Model Architecture & Technical Innovation
 The core differentiator of this project is the use of **Power Query** to automate complex subscription "waterfall" logic, eliminating the need for hundreds of manual Excel tables.
-> **[INSERT SCREENSHOT: waterfall.png]**
+> **[INSERT SCREENSHOT: waterfall.png]**<img width="1545" height="462" alt="waterfall" src="https://github.com/user-attachments/assets/822fc892-b3ca-4421-ac80-704568d8850f" />
+
 
 ### 1. Automated Waterfall Engine
 * **Dynamic Expansion**: Every row of Gross New Enrollees (GNE) is expanded to 20 quarters using the `List.Numbers` function.
