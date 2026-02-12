@@ -7,7 +7,7 @@ The model analyzes unit economics across **five key regions** (US, Eurozone, UK,
 
 ---
 
-* **Comprehensive Driver-Based Forecasting**: Granular, 5-year projection of M365 and Copilot revenue with a focus on **average revenue per user (ARPU) expansion**.
+* **Comprehensive Driver-Based Forecasting**: Delivers a granular, 5-year projection (2026–2030) of Microsoft 365 (M365) Core revenue alongside the Copilot AI Add-on specifically for the SMB segment.**.
 * **Advanced Scenario Engine (100+ Permutations)**: Robust architecture with **toggleable assumptions**. Users can switch between **Single Scenario views** (individual plan/region) and **Aggregated Global views**.
 * **Automated ETL Pipeline**: Utilizes **Power Query** to handle complex data transformations, ensuring the model remains **scalable** and can be **refreshed instantly** as underlying data changes.
 * **Dynamic Scalability**: Modular design allows the forecast horizon to be extended indefinitely beyond the 5-year baseline.
