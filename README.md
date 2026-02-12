@@ -15,6 +15,7 @@ The model analyzes unit economics across **five key regions** (US, Eurozone, UK,
 ---
 
 ## 💡 Key Model Insights
+
 * **US Market Dominance**: The US Copilot add-on for SMB is projected to reach **$9.1 Billion in Gross Margin by 2030**.
 * **Global Scale**: Worldwide Copilot Gross Margin is forecasted at **$16.5 Billion by 2030**.
 * **Margin Resilience**: While Basic/Standard plans maintain high margins (~90%), the **Business Premium plan is more cost-sensitive** (~58%–69%) due to intensive AI compute and data indexing requirements.
@@ -70,10 +71,3 @@ The model features **100+ scenarios and toggleable assumptions**, enabling users
 
 ---
 
-## 💡 Key Model Insights
-* **US Market Dominance**: The US Copilot add-on for SMB is projected to reach **$9.1 Billion in Gross Margin by 2030**.
-* **Global Scale**: Worldwide Copilot Gross Margin is forecasted at **$16.5 Billion by 2030**.
-* **Margin Resilience**: While Basic/Standard plans maintain high margins (~90%), the **Business Premium plan is more cost-sensitive** (~58%–69%) due to intensive AI compute and data indexing requirements.
-* **Consumption Upside**: Under "Best Case" scenarios, consumption-based revenue contributes **2.5% of total Copilot revenue**, representing a significant future growth lever.
-
----
