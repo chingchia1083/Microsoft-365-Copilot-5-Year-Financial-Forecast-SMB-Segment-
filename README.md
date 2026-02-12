@@ -1,9 +1,24 @@
 # 🤖 Microsoft 365 & Copilot 5-Year Financial Forecast (SMB Segment)
 
-## 🚀 Executive Summary
-This repository showcases a high-fidelity, **driver-based financial model** forecasting the performance of **Microsoft 365 (M365) Core** and the **Copilot AI Add-on** for the SMB segment (2026–2030). 
+## 🚀 Key Model Features
+This repository contains a high-fidelity, **driver-based financial model** forecasting the performance of **Microsoft 365 (M365) Core** revenue and the **Copilot AI Add-on** for the Small and Medium Business (SMB) segment from **2026 to 2030**. 
 
-The model evaluates unit economics across **five key regions** (US, Eurozone, UK, Australia, Canada) and **three subscription tiers** (Business Basic, Standard, and Premium), providing a roadmap for AI monetization at scale.
+The model analyzes unit economics across **five key regions** (US, Eurozone, UK, Australia, Canada) and **three subscription tiers** (Business Basic, Standard, and Premium). It is designed to evaluate the margin impact of transitioning from traditional SaaS to an AI-enabled "Seat + Consumption" revenue model.
+
+---
+
+* **Comprehensive Driver-Based Forecasting**: Granular, 5-year projection of M365 and Copilot revenue with a focus on **average revenue per user (ARPU) expansion**.
+* **Advanced Scenario Engine (100+ Permutations)**: Robust architecture with **toggleable assumptions**. Users can switch between **Single Scenario views** (individual plan/region) and **Aggregated Global views**.
+* **Automated ETL Pipeline**: Utilizes **Power Query** to handle complex data transformations, ensuring the model remains **scalable** and can be **refreshed instantly** as underlying data changes.
+* **Dynamic Scalability**: Modular design allows the forecast horizon to be extended indefinitely beyond the 5-year baseline.
+
+---
+
+## 💡 Key Model Insights
+* **US Market Dominance**: The US Copilot add-on for SMB is projected to reach **$9.1 Billion in Gross Margin by 2030**.
+* **Global Scale**: Worldwide Copilot Gross Margin is forecasted at **$16.5 Billion by 2030**.
+* **Margin Resilience**: While Basic/Standard plans maintain high margins (~90%), the **Business Premium plan is more cost-sensitive** (~58%–69%) due to intensive AI compute and data indexing requirements.
+* **Consumption Upside**: Under "Best Case" scenarios, consumption-based revenue contributes **2.5% of total Copilot revenue**, representing a significant future growth lever.
 
 ---
 
