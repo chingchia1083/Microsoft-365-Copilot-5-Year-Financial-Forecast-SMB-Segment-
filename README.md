@@ -16,12 +16,11 @@ The model analyzes unit economics across **five key regions** (US, Eurozone, UK,
 
 ## 💡 Key Model Insights
 
-* **Copilot as a Margin-Protection Engine**: While Core M365 revenue shows a slight decline in the model (dropping from $30B in 2026 to $29B in 2030), Copilot revenue grows from $6B to $20B over the same period.
-    * -Insight: Copilot isn't just an add-on; it is the primary driver of Gross Margin (GM) expansion. By 2030, Copilot is projected to contribute $16B in GM at a consistent 79% margin, effectively offsetting the stagnation in the core business.
-* **US Market Dominance**: The US Copilot add-on for SMB is projected to reach **$9.1 Billion in Gross Margin by 2030**.
-* **Global Scale**: Worldwide Copilot Gross Margin is forecasted at **$16.5 Billion by 2030**.
+* **Copilot as a Margin-Protection Engine**: While Core M365 revenue shows a slight decline in the model (dropping from $34B in 2026 to $31B in 2030), Copilot revenue grows from $6B to $20B over the same period.Insight: Copilot isn't just an add-on; it is the primary driver of Gross Margin (GM) expansion. By 2030, Copilot is projected to contribute $16B in GM at a consistent 79% margin, effectively offsetting the stagnation in the core business.
 * **Margin Resilience**: While Basic/Standard plans maintain high margins (~90%), the **Business Premium plan is more cost-sensitive** (~58%–69%) due to intensive AI compute and data indexing requirements.
 * **Consumption Upside**: Under "Best Case" scenarios, consumption-based revenue contributes **2.5% of total Copilot revenue**, representing a significant future growth lever.
+* **Regional Profitability Disparity**:The regional P&L breakdown reveals that the United States is the absolute anchor of the Copilot program, but the Eurozone is the critical secondary market for scale. UK has lowest Copilot GM rate due to higer AI associated cost.  
+
 
 ---
 
