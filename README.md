@@ -30,10 +30,8 @@ The core differentiator of this project is the use of **Power Query** to automat
 > <img width="1545" height="462" alt="waterfall" src="https://github.com/user-attachments/assets/822fc892-b3ca-4421-ac80-704568d8850f" />
 
 
-### 1. Automated Waterfall Engine
-* **Dynamic Expansion**: Every row of Gross New Enrollees (GNE) is expanded to 20 quarters using the `List.Numbers` function.
-* **Data Integrity**: Uses group all rows and index to simulate waterfall movements within a clean, tabular structure optimized for recurring revenue calculation.
-* **Logic-Driven Revenue**: The engine calculates recurring revenue by merging unit prices with enrollee data through a join-and-multiply logic, ensuring automated accuracy across every period.
+### 1. Automated Waterfall Engine in *Power Query*
+The model executes waterfall logic by transforming each enrollee record into multiple rows—one for each forecast period—to capture recurring revenue streams. It then merges these records with unit pricing by region and plan, calculating the final P&L amounts through record-level multiplication.
 
 > **[Power_Query_Steps]**
 > <img width="263" height="547" alt="query steps" src="https://github.com/user-attachments/assets/7998d495-988e-4510-a2ed-46b7842e0dfa" />
